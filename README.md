@@ -6,7 +6,18 @@
  <img src="https://i.ytimg.com/vi/pKP9-SeOLqg/maxresdefault.jpg" width="50%"/>
  </div>
 
- ## 👩🏽‍💻Seção 1 - Revisão JavaScript
+ <div align="center">
+| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />                     
+<img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" /> 
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />  
+| <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> 
+| <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />                                                       
+
+
+
+
+
+ ## 👩🏽‍💻 Seção 1 - Revisão JavaScript
 
 * Tudo é objeto
 * Arrow Function
@@ -18,11 +29,11 @@
 * Arrays (map e filter)
 * Expressões
 
-## 👩🏽‍💻Seção 2 - React - iniciando
+## 👩🏽‍💻 Seção 2 - React - iniciando
 
 * Adicionar (sem npm)
   
-## 👩🏽‍💻Seção 3 - React Básico
+## 👩🏽‍💻 Seção 3 - React Básico
 
 * React Element
 * Componentes
@@ -31,35 +42,35 @@
 * Eventos
 * Hooks
 
-## 👩🏽‍💻Seção 4 - Ferramentas de Automação
+## 👩🏽‍💻 Seção 4 - Ferramentas de Automação
 
 * Bundler
 * Transpiler
 * ESBuild Mínimo
 * Live Reload
 
-## 👩🏽‍💻Seção 5 - Ferramentas de Front End 
+## 👩🏽‍💻 Seção 5 - Ferramentas de Front End 
 
 * Vite
 * Estrutura Mínima
 * Comandos
 * ESLint
   
-## 👩🏽‍💻Seção 6 - Ambiente do curso
+## 👩🏽‍💻 Seção 6 - Ambiente do curso
 
 * Esconder Arquivos
 * Modo estrito
 * .js vs .jsx
   
   
-## 👩🏽‍💻Seção 7 - Ferramentas de Automação  
+## 👩🏽‍💻 Seção 7 - Ferramentas de Automação  
 
 * Bundler
 * Transpiler
 * ESBuild Mínimo
 * Live Reload
 
-## 👩🏽‍💻Seção 8 - JSX  
+## 👩🏽‍💻 Seção 8 - JSX  
 
 * JSX
 * Atributos
@@ -75,18 +86,26 @@
 * Map
 * Array de Objetos
   
-## 👩🏽‍💻Seção 10 - Eventos
+## 👩🏽‍💻 Seção 10 - Eventos
 
 * Função Anônima
 * window/document
   
-## 👩🏽‍💻Seção 11 - JSX Arrays
+## 👩🏽‍💻 Seção 11 - Componentes
 
-* Keys
-* Map
-* Array de Objetos
+* Interface
+* Return
+* React.Fragment
+
+## 👩🏽‍💻 Seção 12 - Propriedades
+
+* Múltiplas Propriedades
+* Desestruturação
+* Children
+* Rest e Spread
+* Dados  
   
-## 👩🏽‍💻Seção 12 - React Hooks
+## 👩🏽‍💻 Seção 13 - React Hooks
 
 * useState
 * useEffect
@@ -96,7 +115,7 @@
 * Custom Hooks
 * Regras
 
-## 👩🏽‍💻Seção 12 - Formulários
+## 👩🏽‍💻 Seção 14 - Formulários
 
 * Input
 * Textarea
@@ -108,10 +127,28 @@
 * Componentes Radio
 * Validação
 * useForm
-* 
-    
-## 👩🏽‍💻Seção 12 - React Hooks
+  
+## 👩🏽‍💻 Seção 15 -CSS
 
-* useState
-* useEffect
-* useRef
+* CSS Import
+* CSS Modules
+* Styled Components
+* Animações
+* Imagens
+
+## 👩🏽‍💻 Seção 16 - React Router
+
+* Router
+* Link
+* useParams
+* Nested Routes
+* Head
+    
+## 👩🏽‍💻 Seção 17 - Mais React
+
+* PropTypes
+* Lazy e Suspense
+* Memo
+* useReducer
+* Classes
+   
